@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ypg:home|Door43 (ypg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ypg|d43-ypg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ypg/archive/master.zip|d43-ypg.zip]]
+
+**Recent Changes**
+{{changes>ns = ypg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ypg|Ethnologue data]]
+
